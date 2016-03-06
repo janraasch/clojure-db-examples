@@ -9,6 +9,7 @@ A Clojure library designed to let me play around with [Yesql][yesql].
  - Chapter 6, see https://github.com/janraasch/catpics.
  - 1st part of chapter 7, see https://github.com/janraasch/clojure-db-examples.
  - 2nd part of chapter 7, see https://github.com/janraasch/employeezies.
+ - Chapters 8 and 9, see https://github.com/janraasch/picture-gallery.
 
 ## License
 
